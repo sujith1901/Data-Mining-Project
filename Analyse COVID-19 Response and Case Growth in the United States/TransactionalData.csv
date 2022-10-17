@@ -1,0 +1,1051 @@
+state,MaskUsage,SocialDistancing,mobilityLevels,PopulationDensity,casesPC_Levels,CurrentIncidencePhase,month,week,FutureIncidencePhase
+California,N,Phase 0,VL,1,L,Phase 1,6,22,Phase 2
+California,N,Phase 0,VL,1,L,Phase 1,6,23,Phase 2
+California,N,Phase 0,VL,1,L,Phase 2,6,24,Phase 2
+California,M,Phase 0,VL,1,L,Phase 2,6,25,Phase 2
+California,M,Phase 0,VL,1,M,Phase 2,6,26,Phase 2
+California,M,Phase 1,VL,1,H,Phase 2,7,27,Phase 2
+California,M,Phase 1,VL,1,H,Phase 2,7,28,Phase 3
+California,M,Phase 1,VL,1,VH,Phase 2,7,29,Phase 3
+California,M,Phase 1,VL,1,VH,Phase 2,7,30,Phase 3
+California,M,Phase 1,VL,1,VH,Phase 2,8,31,Phase 3
+California,M,Phase 1,VL,1,VH,Phase 3,8,32,Phase 2
+California,M,Phase 1,VL,1,H,Phase 3,8,33,Phase 2
+California,M,Phase 1,VL,1,VH,Phase 3,8,34,Phase 3
+California,M,Phase 1,VL,1,H,Phase 3,8,35,Phase 3
+California,M,Phase 1,VL,1,H,Phase 2,9,36,Phase 3
+California,M,Phase 2,VL,1,M,Phase 2,9,37,Phase 3
+California,M,Phase 2,VL,1,M,Phase 3,9,38,Phase 3
+California,M,Phase 2,VL,1,M,Phase 3,9,39,Phase 3
+California,M,Phase 2,VL,1,M,Phase 3,10,40,Phase 3
+California,M,Phase 3,VL,1,L,Phase 3,10,41,Phase 3
+California,M,Phase 3,VL,1,L,Phase 3,10,42,Phase 3
+Texas,N,Phase 0,L,1,VL,Phase 1,6,22,Phase 2
+Texas,N,Phase 0,L,1,VL,Phase 1,6,23,Phase 2
+Texas,N,Phase 3,L,1,L,Phase 1,6,24,Phase 2
+Texas,N,Phase 3,M,1,L,Phase 2,6,25,Phase 2
+Texas,N,Phase 3,L,1,M,Phase 2,6,26,Phase 2
+Texas,M,Phase 1,L,1,H,Phase 2,7,27,Phase 2
+Texas,M,Phase 1,L,1,VH,Phase 2,7,28,Phase 2
+Texas,M,Phase 1,L,1,VH,Phase 2,7,29,Phase 2
+Texas,M,Phase 1,VL,1,VH,Phase 2,7,30,Phase 2
+Texas,M,Phase 1,VL,1,VH,Phase 2,8,31,Phase 2
+Texas,M,Phase 1,L,1,VH,Phase 2,8,32,Phase 2
+Texas,M,Phase 1,L,1,VH,Phase 2,8,33,Phase 2
+Texas,M,Phase 1,M,1,VH,Phase 2,8,34,Phase 2
+Texas,M,Phase 1,L,1,VH,Phase 2,8,35,Phase 2
+Texas,M,Phase 1,M,1,H,Phase 2,9,36,Phase 2
+Texas,M,Phase 1,M,1,H,Phase 2,9,37,Phase 2
+Texas,M,Phase 1,M,1,H,Phase 2,9,38,Phase 2
+Texas,M,Phase 1,M,1,H,Phase 2,9,39,Phase 2
+Texas,M,Phase 3,M,1,H,Phase 2,10,40,Phase 2
+Texas,M,Phase 3,M,1,H,Phase 2,10,41,Phase 3
+Texas,M,Phase 3,H,1,H,Phase 2,10,42,Phase 3
+Florida,N,Phase 0,VL,2,VL,Phase 1,6,22,Phase 2
+Florida,N,Phase 0,VL,2,VL,Phase 1,6,23,Phase 2
+Florida,N,Phase 3,L,2,VL,Phase 1,6,24,Phase 2
+Florida,N,Phase 3,M,2,L,Phase 2,6,25,Phase 2
+Florida,C,Phase 3,L,2,M,Phase 2,6,26,Phase 2
+Florida,C,Phase 1,L,2,VH,Phase 2,7,27,Phase 2
+Florida,C,Phase 1,M,2,VH,Phase 2,7,28,Phase 2
+Florida,C,Phase 3,L,2,VH,Phase 2,7,29,Phase 3
+Florida,C,Phase 3,VL,2,VH,Phase 2,7,30,Phase 3
+Florida,C,Phase 3,VL,2,VH,Phase 2,8,31,Phase 3
+Florida,C,Phase 3,L,2,VH,Phase 2,8,32,Phase 3
+Florida,C,Phase 4,L,2,VH,Phase 3,8,33,Phase 3
+Florida,C,Phase 4,L,2,VH,Phase 3,8,34,Phase 3
+Florida,C,Phase 4,VL,2,VH,Phase 3,8,35,Phase 3
+Florida,C,Phase 4,M,2,H,Phase 3,9,36,Phase 3
+Florida,C,Phase 3,L,2,H,Phase 3,9,37,Phase 4
+Florida,C,Phase 3,L,2,H,Phase 3,9,38,Phase 4
+Florida,C,Phase 3,M,2,H,Phase 3,9,39,Phase 4
+Florida,C,Phase 3,L,2,M,Phase 3,10,40,Phase 4
+Florida,C,Phase 3,M,2,M,Phase 4,10,41,Phase 4
+Florida,C,Phase 3,M,2,M,Phase 4,10,42,Phase 4
+New York,M,Phase 0,VL,2,M,Phase 3,6,22,Phase 4
+New York,M,Phase 0,VL,2,L,Phase 4,6,23,Phase 4
+New York,M,Phase 0,VL,2,L,Phase 4,6,24,Phase 4
+New York,M,Phase 1,VL,2,VL,Phase 4,6,25,Phase 4
+New York,M,Phase 1,VL,2,VL,Phase 4,6,26,Phase 4
+New York,M,Phase 3,VL,2,VL,Phase 4,7,27,Phase 5
+New York,M,Phase 3,H,2,VL,Phase 4,7,28,Phase 5
+New York,M,Phase 4,VL,2,VL,Phase 4,7,29,Phase 5
+New York,M,Phase 4,VL,2,VL,Phase 4,7,30,Phase 5
+New York,M,Phase 4,VL,2,VL,Phase 5,8,31,Phase 3
+New York,M,Phase 4,VL,2,VL,Phase 5,8,32,Phase 3
+New York,M,Phase 4,VL,2,VL,Phase 5,8,33,Phase 3
+New York,M,Phase 4,L,2,VL,Phase 5,8,34,Phase 3
+New York,M,Phase 4,VL,2,VL,Phase 3,8,35,Phase 3
+New York,M,Phase 4,L,2,VL,Phase 3,9,36,Phase 3
+New York,M,Phase 4,VL,2,VL,Phase 3,9,37,Phase 3
+New York,M,Phase 4,L,2,VL,Phase 3,9,38,Phase 3
+New York,M,Phase 4,L,2,VL,Phase 3,9,39,Phase 3
+New York,M,Phase 4,VL,2,VL,Phase 3,10,40,Phase 3
+New York,M,Phase 1,L,2,L,Phase 3,10,41,Phase 3
+New York,M,Phase 2,L,2,L,Phase 3,10,42,Phase 3
+Pennsylvania,M,Phase 0,VL,1,L,Phase 3,6,22,Phase 4
+Pennsylvania,M,Phase 0,L,1,L,Phase 4,6,23,Phase 2
+Pennsylvania,M,Phase 0,VL,1,VL,Phase 4,6,24,Phase 2
+Pennsylvania,M,Phase 0,M,1,VL,Phase 4,6,25,Phase 2
+Pennsylvania,M,Phase 0,M,1,VL,Phase 4,6,26,Phase 2
+Pennsylvania,M,Phase 0,M,1,VL,Phase 2,7,27,Phase 2
+Pennsylvania,M,Phase 0,VH,1,L,Phase 2,7,28,Phase 2
+Pennsylvania,M,Phase 0,M,1,L,Phase 2,7,29,Phase 2
+Pennsylvania,M,Phase 2,L,1,L,Phase 2,7,30,Phase 2
+Pennsylvania,M,Phase 2,VL,1,L,Phase 2,8,31,Phase 2
+Pennsylvania,M,Phase 2,L,1,L,Phase 2,8,32,Phase 2
+Pennsylvania,M,Phase 2,L,1,L,Phase 2,8,33,Phase 2
+Pennsylvania,M,Phase 2,M,1,L,Phase 2,8,34,Phase 2
+Pennsylvania,M,Phase 2,M,1,L,Phase 2,8,35,Phase 2
+Pennsylvania,M,Phase 2,H,1,L,Phase 2,9,36,Phase 2
+Pennsylvania,M,Phase 2,L,1,L,Phase 2,9,37,Phase 2
+Pennsylvania,M,Phase 2,M,1,L,Phase 2,9,38,Phase 2
+Pennsylvania,M,Phase 2,M,1,L,Phase 2,9,39,Phase 2
+Pennsylvania,M,Phase 3,M,1,L,Phase 2,10,40,Phase 2
+Pennsylvania,M,Phase 3,L,1,L,Phase 2,10,41,Phase 2
+Pennsylvania,M,Phase 3,M,1,M,Phase 2,10,42,Phase 3
+Illinois,M,Phase 0,VL,1,H,Phase 3,6,22,Phase 3
+Illinois,M,Phase 0,L,1,H,Phase 3,6,23,Phase 4
+Illinois,M,Phase 0,L,1,M,Phase 3,6,24,Phase 4
+Illinois,M,Phase 0,M,1,L,Phase 3,6,25,Phase 4
+Illinois,M,Phase 2,M,1,L,Phase 3,6,26,Phase 4
+Illinois,M,Phase 3,M,1,L,Phase 4,7,27,Phase 4
+Illinois,M,Phase 3,VH,1,L,Phase 4,7,28,Phase 4
+Illinois,M,Phase 3,L,1,L,Phase 4,7,29,Phase 1
+Illinois,M,Phase 3,L,1,M,Phase 4,7,30,Phase 1
+Illinois,M,Phase 3,VL,1,M,Phase 4,8,31,Phase 1
+Illinois,M,Phase 3,L,1,M,Phase 4,8,32,Phase 1
+Illinois,M,Phase 3,L,1,H,Phase 1,8,33,Phase 1
+Illinois,M,Phase 3,M,1,H,Phase 1,8,34,Phase 1
+Illinois,M,Phase 3,M,1,H,Phase 1,8,35,Phase 1
+Illinois,M,Phase 3,L,1,H,Phase 1,9,36,Phase 2
+Illinois,M,Phase 3,M,1,H,Phase 1,9,37,Phase 2
+Illinois,M,Phase 3,H,1,H,Phase 1,9,38,Phase 2
+Illinois,M,Phase 3,M,1,H,Phase 1,9,39,Phase 2
+Illinois,M,Phase 3,M,1,H,Phase 2,10,40,Phase 2
+Illinois,M,Phase 2,H,1,H,Phase 2,10,41,Phase 2
+Illinois,M,Phase 2,L,1,H,Phase 2,10,42,Phase 2
+Ohio,N,Phase 0,L,1,VL,Phase 2,6,22,Phase 2
+Ohio,N,Phase 0,H,1,VL,Phase 2,6,23,Phase 2
+Ohio,N,Phase 3,M,1,VL,Phase 2,6,24,Phase 2
+Ohio,N,Phase 3,H,1,VL,Phase 2,6,25,Phase 2
+Ohio,N,Phase 4,H,1,VL,Phase 2,6,26,Phase 3
+Ohio,N,Phase 4,H,1,L,Phase 2,7,27,Phase 3
+Ohio,N,Phase 4,VH,1,L,Phase 2,7,28,Phase 3
+Ohio,N,Phase 4,M,1,M,Phase 2,7,29,Phase 1
+Ohio,M,Phase 4,M,1,M,Phase 3,7,30,Phase 1
+Ohio,M,Phase 4,VL,1,M,Phase 3,8,31,Phase 1
+Ohio,M,Phase 4,M,1,M,Phase 3,8,32,Phase 1
+Ohio,M,Phase 4,L,1,M,Phase 1,8,33,Phase 1
+Ohio,M,Phase 4,H,1,M,Phase 1,8,34,Phase 1
+Ohio,M,Phase 3,M,1,M,Phase 1,8,35,Phase 1
+Ohio,M,Phase 3,H,1,M,Phase 1,9,36,Phase 1
+Ohio,M,Phase 3,M,1,M,Phase 1,9,37,Phase 1
+Ohio,M,Phase 3,H,1,M,Phase 1,9,38,Phase 1
+Ohio,M,Phase 3,H,1,M,Phase 1,9,39,Phase 1
+Ohio,M,Phase 3,M,1,L,Phase 1,10,40,Phase 1
+Ohio,M,Phase 3,M,1,M,Phase 1,10,41,Phase 1
+Ohio,M,Phase 3,M,1,M,Phase 1,10,42,Phase 1
+Georgia,N,Phase 0,L,1,L,Phase 1,6,22,Phase 2
+Georgia,N,Phase 0,M,1,L,Phase 1,6,23,Phase 2
+Georgia,N,Phase 0,M,1,L,Phase 2,6,24,Phase 2
+Georgia,N,Phase 0,VH,1,L,Phase 2,6,25,Phase 2
+Georgia,N,Phase 3,H,1,M,Phase 2,6,26,Phase 2
+Georgia,N,Phase 3,H,1,H,Phase 2,7,27,Phase 2
+Georgia,N,Phase 4,VH,1,VH,Phase 2,7,28,Phase 2
+Georgia,N,Phase 4,H,1,VH,Phase 2,7,29,Phase 2
+Georgia,N,Phase 4,M,1,VH,Phase 2,7,30,Phase 2
+Georgia,N,Phase 4,L,1,VH,Phase 2,8,31,Phase 2
+Georgia,C,Phase 4,M,1,VH,Phase 2,8,32,Phase 3
+Georgia,C,Phase 4,M,1,VH,Phase 2,8,33,Phase 3
+Georgia,C,Phase 4,M,1,VH,Phase 2,8,34,Phase 3
+Georgia,C,Phase 4,M,1,VH,Phase 2,8,35,Phase 3
+Georgia,C,Phase 4,H,1,VH,Phase 3,9,36,Phase 3
+Georgia,C,Phase 4,H,1,H,Phase 3,9,37,Phase 3
+Georgia,C,Phase 4,H,1,H,Phase 3,9,38,Phase 3
+Georgia,C,Phase 3,H,1,H,Phase 3,9,39,Phase 3
+Georgia,C,Phase 3,H,1,H,Phase 3,10,40,Phase 3
+Georgia,C,Phase 3,M,1,M,Phase 3,10,41,Phase 3
+Georgia,C,Phase 3,VH,1,M,Phase 3,10,42,Phase 3
+North Carolina,N,Phase 0,L,1,L,Phase 1,6,22,Phase 2
+North Carolina,N,Phase 0,M,1,L,Phase 2,6,23,Phase 2
+North Carolina,N,Phase 0,L,1,M,Phase 2,6,24,Phase 2
+North Carolina,N,Phase 0,H,1,M,Phase 2,6,25,Phase 2
+North Carolina,M,Phase 0,M,1,M,Phase 2,6,26,Phase 2
+North Carolina,M,Phase 1,M,1,H,Phase 2,7,27,Phase 2
+North Carolina,M,Phase 1,VH,1,H,Phase 2,7,28,Phase 2
+North Carolina,M,Phase 1,M,1,H,Phase 2,7,29,Phase 2
+North Carolina,M,Phase 1,M,1,H,Phase 2,7,30,Phase 2
+North Carolina,M,Phase 1,L,1,H,Phase 2,8,31,Phase 2
+North Carolina,M,Phase 3,M,1,H,Phase 2,8,32,Phase 2
+North Carolina,M,Phase 2,L,1,H,Phase 2,8,33,Phase 2
+North Carolina,M,Phase 2,M,1,H,Phase 2,8,34,Phase 2
+North Carolina,M,Phase 2,M,1,H,Phase 2,8,35,Phase 2
+North Carolina,M,Phase 2,M,1,H,Phase 2,9,36,Phase 2
+North Carolina,M,Phase 3,M,1,H,Phase 2,9,37,Phase 2
+North Carolina,M,Phase 3,H,1,M,Phase 2,9,38,Phase 2
+North Carolina,M,Phase 3,H,1,M,Phase 2,9,39,Phase 2
+North Carolina,M,Phase 3,M,1,M,Phase 2,10,40,Phase 2
+North Carolina,M,Phase 3,L,1,H,Phase 2,10,41,Phase 3
+North Carolina,M,Phase 3,H,1,H,Phase 2,10,42,Phase 3
+Michigan,M,Phase 0,VL,1,L,Phase 3,6,22,Phase 3
+Michigan,M,Phase 0,L,1,L,Phase 3,6,23,Phase 3
+Michigan,M,Phase 0,L,1,VL,Phase 3,6,24,Phase 4
+Michigan,M,Phase 3,M,1,VL,Phase 3,6,25,Phase 4
+Michigan,M,Phase 4,VH,1,VL,Phase 3,6,26,Phase 4
+Michigan,M,Phase 4,H,1,VL,Phase 3,7,27,Phase 4
+Michigan,M,Phase 1,VH,1,VL,Phase 4,7,28,Phase 4
+Michigan,M,Phase 1,L,1,L,Phase 4,7,29,Phase 4
+Michigan,M,Phase 1,M,1,L,Phase 4,7,30,Phase 4
+Michigan,M,Phase 1,VL,1,L,Phase 4,8,31,Phase 1
+Michigan,M,Phase 1,M,1,L,Phase 4,8,32,Phase 1
+Michigan,M,Phase 3,L,1,L,Phase 4,8,33,Phase 1
+Michigan,M,Phase 3,H,1,L,Phase 4,8,34,Phase 1
+Michigan,M,Phase 3,M,1,L,Phase 1,8,35,Phase 1
+Michigan,M,Phase 3,M,1,L,Phase 1,9,36,Phase 1
+Michigan,M,Phase 3,M,1,L,Phase 1,9,37,Phase 1
+Michigan,M,Phase 3,H,1,L,Phase 1,9,38,Phase 1
+Michigan,M,Phase 4,H,1,L,Phase 1,9,39,Phase 1
+Michigan,M,Phase 4,L,1,M,Phase 1,10,40,Phase 1
+Michigan,M,Phase 4,H,1,M,Phase 1,10,41,Phase 1
+Michigan,M,Phase 4,L,1,M,Phase 1,10,42,Phase 1
+New Jersey,M,Phase 0,VL,3,M,Phase 3,6,22,Phase 4
+New Jersey,M,Phase 0,VL,3,M,Phase 3,6,23,Phase 4
+New Jersey,M,Phase 0,VL,3,L,Phase 4,6,24,Phase 4
+New Jersey,M,Phase 0,VL,3,VL,Phase 4,6,25,Phase 4
+New Jersey,M,Phase 4,VL,3,VL,Phase 4,6,26,Phase 4
+New Jersey,M,Phase 4,VL,3,VL,Phase 4,7,27,Phase 4
+New Jersey,M,Phase 1,H,3,VL,Phase 4,7,28,Phase 4
+New Jersey,M,Phase 1,L,3,VL,Phase 4,7,29,Phase 5
+New Jersey,M,Phase 1,VL,3,VL,Phase 4,7,30,Phase 5
+New Jersey,M,Phase 1,VL,3,VL,Phase 4,8,31,Phase 5
+New Jersey,M,Phase 1,L,3,VL,Phase 4,8,32,Phase 2
+New Jersey,M,Phase 1,VL,3,VL,Phase 5,8,33,Phase 2
+New Jersey,M,Phase 1,L,3,VL,Phase 5,8,34,Phase 2
+New Jersey,M,Phase 1,L,3,VL,Phase 5,8,35,Phase 3
+New Jersey,M,Phase 1,L,3,VL,Phase 2,9,36,Phase 3
+New Jersey,M,Phase 1,L,3,VL,Phase 2,9,37,Phase 3
+New Jersey,M,Phase 1,L,3,VL,Phase 2,9,38,Phase 3
+New Jersey,M,Phase 1,L,3,VL,Phase 3,9,39,Phase 3
+New Jersey,M,Phase 1,L,3,L,Phase 3,10,40,Phase 3
+New Jersey,M,Phase 1,L,3,L,Phase 3,10,41,Phase 3
+New Jersey,M,Phase 1,M,3,M,Phase 3,10,42,Phase 3
+Virginia,M,Phase 0,VL,1,M,Phase 2,6,22,Phase 2
+Virginia,M,Phase 0,L,1,M,Phase 2,6,23,Phase 2
+Virginia,M,Phase 0,VL,1,M,Phase 2,6,24,Phase 2
+Virginia,M,Phase 2,L,1,L,Phase 2,6,25,Phase 2
+Virginia,M,Phase 2,L,1,L,Phase 2,6,26,Phase 2
+Virginia,M,Phase 2,L,1,L,Phase 2,7,27,Phase 2
+Virginia,M,Phase 3,H,1,L,Phase 2,7,28,Phase 2
+Virginia,M,Phase 3,L,1,L,Phase 2,7,29,Phase 2
+Virginia,M,Phase 3,L,1,M,Phase 2,7,30,Phase 2
+Virginia,M,Phase 3,VL,1,M,Phase 2,8,31,Phase 2
+Virginia,M,Phase 3,L,1,M,Phase 2,8,32,Phase 2
+Virginia,M,Phase 3,VL,1,M,Phase 2,8,33,Phase 2
+Virginia,M,Phase 3,M,1,M,Phase 2,8,34,Phase 2
+Virginia,M,Phase 3,L,1,M,Phase 2,8,35,Phase 2
+Virginia,M,Phase 3,M,1,M,Phase 2,9,36,Phase 2
+Virginia,M,Phase 3,L,1,M,Phase 2,9,37,Phase 2
+Virginia,M,Phase 3,M,1,M,Phase 2,9,38,Phase 3
+Virginia,M,Phase 3,L,1,M,Phase 2,9,39,Phase 3
+Virginia,M,Phase 3,L,1,M,Phase 2,10,40,Phase 3
+Virginia,M,Phase 3,VL,1,M,Phase 2,10,41,Phase 3
+Virginia,M,Phase 3,M,1,M,Phase 3,10,42,Phase 3
+Washington,N,Phase 0,VL,1,VL,Phase 2,6,22,Phase 2
+Washington,N,Phase 0,VL,1,VL,Phase 2,6,23,Phase 2
+Washington,N,Phase 0,L,1,VL,Phase 2,6,24,Phase 2
+Washington,N,Phase 0,L,1,VL,Phase 2,6,25,Phase 2
+Washington,M,Phase 0,L,1,L,Phase 2,6,26,Phase 2
+Washington,N,Phase 1,L,1,L,Phase 2,7,27,Phase 2
+Washington,N,Phase 1,M,1,L,Phase 2,7,28,Phase 2
+Washington,N,Phase 1,L,1,M,Phase 2,7,29,Phase 2
+Washington,N,Phase 1,L,1,M,Phase 2,7,30,Phase 2
+Washington,N,Phase 2,VL,1,M,Phase 2,8,31,Phase 2
+Washington,N,Phase 2,L,1,M,Phase 2,8,32,Phase 2
+Washington,N,Phase 2,L,1,M,Phase 2,8,33,Phase 2
+Washington,N,Phase 2,L,1,M,Phase 2,8,34,Phase 2
+Washington,N,Phase 2,L,1,L,Phase 2,8,35,Phase 2
+Washington,N,Phase 2,L,1,L,Phase 2,9,36,Phase 2
+Washington,N,Phase 2,VL,1,L,Phase 2,9,37,Phase 2
+Washington,N,Phase 2,L,1,L,Phase 2,9,38,Phase 2
+Washington,N,Phase 2,L,1,L,Phase 2,9,39,Phase 2
+Washington,N,Phase 2,VL,1,L,Phase 2,10,40,Phase 2
+Washington,N,Phase 2,VL,1,L,Phase 2,10,41,Phase 2
+Washington,N,Phase 2,L,1,L,Phase 2,10,42,Phase 2
+Arizona,N,Phase 0,VL,1,L,Phase 1,6,22,Phase 2
+Arizona,N,Phase 0,VL,1,L,Phase 1,6,23,Phase 2
+Arizona,N,Phase 0,VL,1,M,Phase 1,6,24,Phase 2
+Arizona,N,Phase 0,VL,1,H,Phase 2,6,25,Phase 2
+Arizona,N,Phase 0,VL,1,VH,Phase 2,6,26,Phase 2
+Arizona,C,Phase 1,VL,1,VH,Phase 2,7,27,Phase 2
+Arizona,C,Phase 1,VL,1,VH,Phase 2,7,28,Phase 2
+Arizona,C,Phase 1,VL,1,VH,Phase 2,7,29,Phase 2
+Arizona,C,Phase 1,VL,1,VH,Phase 2,7,30,Phase 3
+Arizona,C,Phase 1,VL,1,VH,Phase 2,8,31,Phase 3
+Arizona,C,Phase 1,VL,1,VH,Phase 2,8,32,Phase 3
+Arizona,C,Phase 1,VL,1,VH,Phase 2,8,33,Phase 3
+Arizona,C,Phase 1,VL,1,H,Phase 3,8,34,Phase 3
+Arizona,C,Phase 3,VL,1,M,Phase 3,8,35,Phase 3
+Arizona,C,Phase 3,VL,1,L,Phase 3,9,36,Phase 3
+Arizona,C,Phase 3,L,1,L,Phase 3,9,37,Phase 3
+Arizona,C,Phase 3,VL,1,L,Phase 3,9,38,Phase 3
+Arizona,C,Phase 3,L,1,M,Phase 3,9,39,Phase 3
+Arizona,C,Phase 3,VL,1,M,Phase 3,10,40,Phase 3
+Arizona,C,Phase 3,L,1,L,Phase 3,10,41,Phase 3
+Arizona,C,Phase 3,L,1,M,Phase 3,10,42,Phase 3
+Massachusetts,M,Phase 0,VL,3,M,Phase 3,6,22,Phase 4
+Massachusetts,M,Phase 0,VL,3,M,Phase 4,6,23,Phase 4
+Massachusetts,M,Phase 0,VL,3,L,Phase 4,6,24,Phase 4
+Massachusetts,M,Phase 0,L,3,VL,Phase 4,6,25,Phase 4
+Massachusetts,M,Phase 0,VL,3,VL,Phase 4,6,26,Phase 4
+Massachusetts,M,Phase 0,L,3,VL,Phase 4,7,27,Phase 2
+Massachusetts,M,Phase 0,VH,3,VL,Phase 4,7,28,Phase 2
+Massachusetts,M,Phase 3,L,3,VL,Phase 4,7,29,Phase 2
+Massachusetts,M,Phase 3,L,3,VL,Phase 4,7,30,Phase 2
+Massachusetts,M,Phase 3,VL,3,VL,Phase 2,8,31,Phase 2
+Massachusetts,M,Phase 3,L,3,VL,Phase 2,8,32,Phase 3
+Massachusetts,M,Phase 3,VL,3,VL,Phase 2,8,33,Phase 3
+Massachusetts,M,Phase 3,M,3,VL,Phase 2,8,34,Phase 3
+Massachusetts,M,Phase 3,L,3,VL,Phase 2,8,35,Phase 3
+Massachusetts,M,Phase 3,M,3,VL,Phase 3,9,36,Phase 3
+Massachusetts,M,Phase 3,L,3,VL,Phase 3,9,37,Phase 3
+Massachusetts,M,Phase 3,L,3,VL,Phase 3,9,38,Phase 3
+Massachusetts,M,Phase 3,L,3,L,Phase 3,9,39,Phase 3
+Massachusetts,M,Phase 2,L,3,L,Phase 3,10,40,Phase 3
+Massachusetts,M,Phase 3,M,3,L,Phase 3,10,41,Phase 3
+Massachusetts,M,Phase 3,L,3,M,Phase 3,10,42,Phase 3
+Tennessee,N,Phase 0,H,1,L,Phase 1,6,22,Phase 2
+Tennessee,N,Phase 0,VH,1,L,Phase 1,6,23,Phase 2
+Tennessee,N,Phase 0,H,1,L,Phase 1,6,24,Phase 2
+Tennessee,N,Phase 0,VH,1,L,Phase 2,6,25,Phase 2
+Tennessee,N,Phase 0,VH,1,M,Phase 2,6,26,Phase 2
+Tennessee,C,Phase 0,H,1,M,Phase 2,7,27,Phase 2
+Tennessee,C,Phase 0,VH,1,H,Phase 2,7,28,Phase 2
+Tennessee,C,Phase 1,H,1,VH,Phase 2,7,29,Phase 2
+Tennessee,C,Phase 1,H,1,VH,Phase 2,7,30,Phase 2
+Tennessee,C,Phase 1,M,1,VH,Phase 2,8,31,Phase 2
+Tennessee,C,Phase 1,H,1,VH,Phase 2,8,32,Phase 2
+Tennessee,C,Phase 1,H,1,VH,Phase 2,8,33,Phase 2
+Tennessee,C,Phase 1,H,1,VH,Phase 2,8,34,Phase 2
+Tennessee,C,Phase 1,M,1,VH,Phase 2,8,35,Phase 2
+Tennessee,C,Phase 1,VH,1,VH,Phase 2,9,36,Phase 2
+Tennessee,C,Phase 1,M,1,VH,Phase 2,9,37,Phase 2
+Tennessee,C,Phase 1,VH,1,H,Phase 2,9,38,Phase 2
+Tennessee,C,Phase 3,VH,1,VH,Phase 2,9,39,Phase 2
+Tennessee,C,Phase 3,VH,1,VH,Phase 2,10,40,Phase 2
+Tennessee,C,Phase 3,H,1,VH,Phase 2,10,41,Phase 2
+Tennessee,C,Phase 3,VH,1,VH,Phase 2,10,42,Phase 2
+Indiana,N,Phase 0,L,1,L,Phase 3,6,22,Phase 4
+Indiana,N,Phase 0,H,1,L,Phase 3,6,23,Phase 4
+Indiana,N,Phase 0,M,1,L,Phase 3,6,24,Phase 4
+Indiana,N,Phase 4,H,1,L,Phase 3,6,25,Phase 4
+Indiana,N,Phase 4,H,1,L,Phase 4,6,26,Phase 1
+Indiana,N,Phase 4,H,1,L,Phase 4,7,27,Phase 1
+Indiana,N,Phase 4,VH,1,L,Phase 4,7,28,Phase 1
+Indiana,N,Phase 4,M,1,L,Phase 4,7,29,Phase 1
+Indiana,M,Phase 4,H,1,M,Phase 1,7,30,Phase 1
+Indiana,M,Phase 4,L,1,M,Phase 1,8,31,Phase 1
+Indiana,M,Phase 4,H,1,M,Phase 1,8,32,Phase 1
+Indiana,M,Phase 4,M,1,H,Phase 1,8,33,Phase 1
+Indiana,M,Phase 4,H,1,H,Phase 1,8,34,Phase 1
+Indiana,M,Phase 4,H,1,H,Phase 1,8,35,Phase 1
+Indiana,M,Phase 4,M,1,H,Phase 1,9,36,Phase 1
+Indiana,M,Phase 4,H,1,H,Phase 1,9,37,Phase 1
+Indiana,M,Phase 4,H,1,H,Phase 1,9,38,Phase 1
+Indiana,M,Phase 4,VH,1,H,Phase 1,9,39,Phase 1
+Indiana,M,Phase 5,M,1,H,Phase 1,10,40,Phase 1
+Indiana,M,Phase 5,H,1,H,Phase 1,10,41,Phase 1
+Indiana,M,Phase 5,M,1,VH,Phase 1,10,42,Phase 1
+Missouri,N,Phase 0,M,1,VL,Phase 3,6,22,Phase 1
+Missouri,N,Phase 0,H,1,VL,Phase 4,6,23,Phase 1
+Missouri,N,Phase 0,M,1,VL,Phase 4,6,24,Phase 1
+Missouri,N,Phase 0,VH,1,VL,Phase 4,6,25,Phase 1
+Missouri,N,Phase 4,VH,1,VL,Phase 1,6,26,Phase 1
+Missouri,N,Phase 4,H,1,L,Phase 1,7,27,Phase 1
+Missouri,N,Phase 4,VH,1,L,Phase 1,7,28,Phase 1
+Missouri,C,Phase 4,M,1,M,Phase 1,7,29,Phase 1
+Missouri,C,Phase 4,M,1,M,Phase 1,7,30,Phase 1
+Missouri,C,Phase 4,L,1,H,Phase 1,8,31,Phase 1
+Missouri,C,Phase 4,M,1,VH,Phase 1,8,32,Phase 1
+Missouri,C,Phase 4,M,1,H,Phase 1,8,33,Phase 1
+Missouri,C,Phase 4,H,1,H,Phase 1,8,34,Phase 1
+Missouri,C,Phase 4,M,1,H,Phase 1,8,35,Phase 1
+Missouri,C,Phase 4,M,1,H,Phase 1,9,36,Phase 1
+Missouri,C,Phase 4,H,1,VH,Phase 1,9,37,Phase 1
+Missouri,C,Phase 4,H,1,VH,Phase 1,9,38,Phase 1
+Missouri,C,Phase 4,M,1,VH,Phase 1,9,39,Phase 1
+Missouri,C,Phase 4,M,1,VH,Phase 1,10,40,Phase 1
+Missouri,C,Phase 4,H,1,VH,Phase 1,10,41,Phase 1
+Missouri,C,Phase 4,M,1,VH,Phase 1,10,42,Phase 1
+Maryland,M,Phase 0,VL,2,H,Phase 2,6,22,Phase 2
+Maryland,M,Phase 0,VL,2,H,Phase 2,6,23,Phase 2
+Maryland,M,Phase 0,VL,2,H,Phase 3,6,24,Phase 2
+Maryland,M,Phase 3,VL,2,M,Phase 3,6,25,Phase 2
+Maryland,M,Phase 3,VL,2,L,Phase 2,6,26,Phase 2
+Maryland,M,Phase 3,VL,2,L,Phase 2,7,27,Phase 2
+Maryland,M,Phase 3,M,2,L,Phase 2,7,28,Phase 2
+Maryland,M,Phase 3,VL,2,L,Phase 2,7,29,Phase 2
+Maryland,M,Phase 3,VL,2,M,Phase 2,7,30,Phase 2
+Maryland,M,Phase 1,VL,2,H,Phase 2,8,31,Phase 2
+Maryland,M,Phase 2,VL,2,H,Phase 2,8,32,Phase 2
+Maryland,M,Phase 2,VL,2,H,Phase 2,8,33,Phase 3
+Maryland,M,Phase 2,VL,2,M,Phase 2,8,34,Phase 3
+Maryland,M,Phase 2,VL,2,M,Phase 2,8,35,Phase 3
+Maryland,M,Phase 2,L,2,M,Phase 2,9,36,Phase 3
+Maryland,M,Phase 3,VL,2,M,Phase 3,9,37,Phase 3
+Maryland,M,Phase 3,VL,2,M,Phase 3,9,38,Phase 3
+Maryland,M,Phase 3,VL,2,M,Phase 3,9,39,Phase 3
+Maryland,M,Phase 3,VL,2,M,Phase 3,10,40,Phase 3
+Maryland,M,Phase 3,VL,2,M,Phase 3,10,41,Phase 3
+Maryland,M,Phase 3,VL,2,M,Phase 3,10,42,Phase 3
+Wisconsin,N,Phase 0,M,1,L,Phase 3,6,22,Phase 1
+Wisconsin,N,Phase 0,H,1,L,Phase 3,6,23,Phase 1
+Wisconsin,N,Phase 0,H,1,L,Phase 3,6,24,Phase 1
+Wisconsin,N,Phase 0,VH,1,L,Phase 3,6,25,Phase 1
+Wisconsin,N,Phase 0,VH,1,L,Phase 1,6,26,Phase 1
+Wisconsin,N,Phase 0,VH,1,L,Phase 1,7,27,Phase 1
+Wisconsin,N,Phase 0,VH,1,M,Phase 1,7,28,Phase 1
+Wisconsin,C,Phase 0,VH,1,M,Phase 1,7,29,Phase 1
+Wisconsin,C,Phase 0,M,1,H,Phase 1,7,30,Phase 1
+Wisconsin,M,Phase 0,L,1,H,Phase 1,8,31,Phase 1
+Wisconsin,M,Phase 0,M,1,H,Phase 1,8,32,Phase 1
+Wisconsin,M,Phase 0,H,1,H,Phase 1,8,33,Phase 1
+Wisconsin,M,Phase 0,VH,1,M,Phase 1,8,34,Phase 1
+Wisconsin,M,Phase 0,VH,1,M,Phase 1,8,35,Phase 1
+Wisconsin,M,Phase 0,M,1,H,Phase 1,9,36,Phase 1
+Wisconsin,M,Phase 0,H,1,H,Phase 1,9,37,Phase 1
+Wisconsin,M,Phase 0,H,1,H,Phase 1,9,38,Phase 1
+Wisconsin,M,Phase 0,H,1,VH,Phase 1,9,39,Phase 1
+Wisconsin,M,Phase 0,M,1,VH,Phase 1,10,40,Phase 1
+Wisconsin,M,Phase 0,H,1,VH,Phase 1,10,41,Phase 1
+Wisconsin,M,Phase 1,L,1,VH,Phase 1,10,42,Phase 1
+Colorado,N,Phase 0,VL,1,L,Phase 3,6,22,Phase 4
+Colorado,N,Phase 0,L,1,L,Phase 3,6,23,Phase 4
+Colorado,N,Phase 0,L,1,VL,Phase 3,6,24,Phase 4
+Colorado,N,Phase 0,M,1,VL,Phase 4,6,25,Phase 4
+Colorado,N,Phase 0,H,1,VL,Phase 4,6,26,Phase 1
+Colorado,N,Phase 0,M,1,VL,Phase 4,7,27,Phase 1
+Colorado,N,Phase 1,H,1,VL,Phase 4,7,28,Phase 1
+Colorado,M,Phase 1,M,1,L,Phase 4,7,29,Phase 1
+Colorado,M,Phase 1,L,1,L,Phase 1,7,30,Phase 1
+Colorado,M,Phase 2,L,1,M,Phase 1,8,31,Phase 1
+Colorado,M,Phase 2,M,1,M,Phase 1,8,32,Phase 1
+Colorado,M,Phase 2,L,1,L,Phase 1,8,33,Phase 1
+Colorado,M,Phase 2,L,1,L,Phase 1,8,34,Phase 1
+Colorado,M,Phase 2,L,1,L,Phase 1,8,35,Phase 1
+Colorado,M,Phase 2,M,1,L,Phase 1,9,36,Phase 1
+Colorado,M,Phase 2,M,1,L,Phase 1,9,37,Phase 1
+Colorado,M,Phase 2,M,1,L,Phase 1,9,38,Phase 1
+Colorado,M,Phase 2,M,1,L,Phase 1,9,39,Phase 1
+Colorado,M,Phase 2,L,1,M,Phase 1,10,40,Phase 1
+Colorado,M,Phase 2,L,1,M,Phase 1,10,41,Phase 1
+Colorado,M,Phase 2,L,1,H,Phase 1,10,42,Phase 1
+Minnesota,N,Phase 0,L,1,M,Phase 2,6,22,Phase 3
+Minnesota,N,Phase 0,L,1,M,Phase 2,6,23,Phase 3
+Minnesota,N,Phase 0,L,1,M,Phase 2,6,24,Phase 3
+Minnesota,N,Phase 3,H,1,L,Phase 2,6,25,Phase 3
+Minnesota,N,Phase 3,H,1,L,Phase 3,6,26,Phase 3
+Minnesota,N,Phase 3,M,1,L,Phase 3,7,27,Phase 3
+Minnesota,N,Phase 3,VH,1,L,Phase 3,7,28,Phase 3
+Minnesota,N,Phase 3,H,1,M,Phase 3,7,29,Phase 1
+Minnesota,M,Phase 3,L,1,M,Phase 3,7,30,Phase 1
+Minnesota,M,Phase 3,L,1,M,Phase 3,8,31,Phase 1
+Minnesota,M,Phase 3,L,1,M,Phase 3,8,32,Phase 1
+Minnesota,M,Phase 3,H,1,M,Phase 1,8,33,Phase 1
+Minnesota,M,Phase 3,VH,1,M,Phase 1,8,34,Phase 1
+Minnesota,M,Phase 3,H,1,M,Phase 1,8,35,Phase 1
+Minnesota,M,Phase 3,M,1,H,Phase 1,9,36,Phase 1
+Minnesota,M,Phase 3,H,1,H,Phase 1,9,37,Phase 1
+Minnesota,M,Phase 3,H,1,M,Phase 1,9,38,Phase 1
+Minnesota,M,Phase 3,H,1,M,Phase 1,9,39,Phase 1
+Minnesota,M,Phase 3,M,1,H,Phase 1,10,40,Phase 1
+Minnesota,M,Phase 3,H,1,H,Phase 1,10,41,Phase 1
+Minnesota,M,Phase 1,L,1,VH,Phase 1,10,42,Phase 1
+South Carolina,N,Phase 0,L,1,VL,Phase 1,6,22,Phase 2
+South Carolina,N,Phase 0,H,1,VL,Phase 1,6,23,Phase 2
+South Carolina,N,Phase 0,M,1,L,Phase 1,6,24,Phase 2
+South Carolina,N,Phase 0,VH,1,M,Phase 2,6,25,Phase 2
+South Carolina,C,Phase 0,H,1,H,Phase 2,6,26,Phase 2
+South Carolina,C,Phase 0,H,1,VH,Phase 2,7,27,Phase 2
+South Carolina,C,Phase 0,VH,1,VH,Phase 2,7,28,Phase 2
+South Carolina,C,Phase 2,H,1,VH,Phase 2,7,29,Phase 2
+South Carolina,C,Phase 2,M,1,VH,Phase 2,7,30,Phase 2
+South Carolina,C,Phase 2,L,1,VH,Phase 2,8,31,Phase 3
+South Carolina,C,Phase 2,H,1,VH,Phase 2,8,32,Phase 3
+South Carolina,C,Phase 3,H,1,VH,Phase 2,8,33,Phase 3
+South Carolina,C,Phase 3,H,1,H,Phase 2,8,34,Phase 3
+South Carolina,C,Phase 3,H,1,H,Phase 3,8,35,Phase 3
+South Carolina,C,Phase 3,H,1,H,Phase 3,9,36,Phase 3
+South Carolina,C,Phase 3,H,1,H,Phase 3,9,37,Phase 3
+South Carolina,C,Phase 3,H,1,H,Phase 3,9,38,Phase 3
+South Carolina,C,Phase 3,H,1,VH,Phase 3,9,39,Phase 3
+South Carolina,C,Phase 3,H,1,H,Phase 3,10,40,Phase 3
+South Carolina,C,Phase 4,M,1,H,Phase 3,10,41,Phase 3
+South Carolina,C,Phase 4,VH,1,H,Phase 3,10,42,Phase 4
+Alabama,N,Phase 0,H,1,L,Phase 1,6,22,Phase 2
+Alabama,N,Phase 0,H,1,M,Phase 1,6,23,Phase 2
+Alabama,N,Phase 2,VH,1,M,Phase 1,6,24,Phase 2
+Alabama,N,Phase 2,VH,1,M,Phase 2,6,25,Phase 2
+Alabama,N,Phase 2,VH,1,H,Phase 2,6,26,Phase 2
+Alabama,N,Phase 2,VH,1,H,Phase 2,7,27,Phase 2
+Alabama,N,Phase 1,VH,1,VH,Phase 2,7,28,Phase 2
+Alabama,M,Phase 1,H,1,VH,Phase 2,7,29,Phase 2
+Alabama,M,Phase 1,H,1,VH,Phase 2,7,30,Phase 2
+Alabama,M,Phase 1,H,1,VH,Phase 2,8,31,Phase 2
+Alabama,M,Phase 1,H,1,VH,Phase 2,8,32,Phase 2
+Alabama,M,Phase 1,H,1,VH,Phase 2,8,33,Phase 2
+Alabama,M,Phase 1,H,1,VH,Phase 2,8,34,Phase 2
+Alabama,M,Phase 1,H,1,VH,Phase 2,8,35,Phase 3
+Alabama,M,Phase 1,VH,1,VH,Phase 2,9,36,Phase 3
+Alabama,M,Phase 1,VH,1,VH,Phase 2,9,37,Phase 3
+Alabama,M,Phase 1,VH,1,H,Phase 2,9,38,Phase 3
+Alabama,M,Phase 1,VH,1,H,Phase 3,9,39,Phase 3
+Alabama,M,Phase 1,VH,1,VH,Phase 3,10,40,Phase 3
+Alabama,N,Phase 1,H,1,VH,Phase 3,10,41,Phase 3
+Alabama,N,Phase 1,VH,1,VH,Phase 3,10,42,Phase 3
+Louisiana,N,Phase 0,M,1,M,Phase 2,6,22,Phase 2
+Louisiana,N,Phase 0,VL,1,M,Phase 2,6,23,Phase 2
+Louisiana,N,Phase 2,H,1,M,Phase 2,6,24,Phase 2
+Louisiana,N,Phase 2,VH,1,M,Phase 2,6,25,Phase 2
+Louisiana,N,Phase 2,H,1,M,Phase 2,6,26,Phase 2
+Louisiana,N,Phase 2,M,1,H,Phase 2,7,27,Phase 2
+Louisiana,N,Phase 2,VH,1,VH,Phase 2,7,28,Phase 3
+Louisiana,M,Phase 1,M,1,VH,Phase 2,7,29,Phase 3
+Louisiana,M,Phase 1,L,1,VH,Phase 2,7,30,Phase 3
+Louisiana,M,Phase 2,L,1,VH,Phase 2,8,31,Phase 3
+Louisiana,M,Phase 2,M,1,VH,Phase 3,8,32,Phase 3
+Louisiana,M,Phase 2,M,1,VH,Phase 3,8,33,Phase 3
+Louisiana,M,Phase 2,H,1,VH,Phase 3,8,34,Phase 3
+Louisiana,M,Phase 2,H,1,H,Phase 3,8,35,Phase 3
+Louisiana,M,Phase 2,H,1,H,Phase 3,9,36,Phase 3
+Louisiana,M,Phase 2,H,1,H,Phase 3,9,37,Phase 3
+Louisiana,M,Phase 3,H,1,H,Phase 3,9,38,Phase 3
+Louisiana,M,Phase 3,VH,1,H,Phase 3,9,39,Phase 3
+Louisiana,M,Phase 3,H,1,M,Phase 3,10,40,Phase 4
+Louisiana,M,Phase 3,H,1,M,Phase 3,10,41,Phase 4
+Louisiana,M,Phase 3,VH,1,H,Phase 3,10,42,Phase 4
+Kentucky,N,Phase 0,M,1,VL,Phase 2,6,22,Phase 3
+Kentucky,N,Phase 0,H,1,VL,Phase 2,6,23,Phase 3
+Kentucky,N,Phase 2,H,1,VL,Phase 2,6,24,Phase 3
+Kentucky,N,Phase 2,VH,1,VL,Phase 3,6,25,Phase 3
+Kentucky,N,Phase 2,H,1,VL,Phase 3,6,26,Phase 1
+Kentucky,M,Phase 2,VH,1,VL,Phase 3,7,27,Phase 1
+Kentucky,M,Phase 2,VH,1,L,Phase 3,7,28,Phase 1
+Kentucky,M,Phase 2,H,1,L,Phase 3,7,29,Phase 1
+Kentucky,M,Phase 2,H,1,M,Phase 1,7,30,Phase 1
+Kentucky,M,Phase 2,L,1,H,Phase 1,8,31,Phase 1
+Kentucky,M,Phase 3,H,1,H,Phase 1,8,32,Phase 1
+Kentucky,M,Phase 3,M,1,M,Phase 1,8,33,Phase 1
+Kentucky,M,Phase 3,H,1,H,Phase 1,8,34,Phase 1
+Kentucky,M,Phase 3,H,1,H,Phase 1,8,35,Phase 1
+Kentucky,M,Phase 3,VH,1,H,Phase 1,9,36,Phase 1
+Kentucky,M,Phase 3,H,1,H,Phase 1,9,37,Phase 1
+Kentucky,M,Phase 3,VH,1,H,Phase 1,9,38,Phase 1
+Kentucky,M,Phase 3,VH,1,H,Phase 1,9,39,Phase 1
+Kentucky,M,Phase 3,H,1,H,Phase 1,10,40,Phase 1
+Kentucky,M,Phase 3,M,1,H,Phase 1,10,41,Phase 1
+Kentucky,M,Phase 3,H,1,VH,Phase 1,10,42,Phase 1
+Oregon,N,Phase 0,L,1,VL,Phase 1,6,22,Phase 2
+Oregon,N,Phase 0,VL,1,VL,Phase 1,6,23,Phase 2
+Oregon,N,Phase 4,M,1,VL,Phase 2,6,24,Phase 2
+Oregon,N,Phase 1,M,1,VL,Phase 2,6,25,Phase 2
+Oregon,N,Phase 1,M,1,VL,Phase 2,6,26,Phase 2
+Oregon,M,Phase 1,M,1,VL,Phase 2,7,27,Phase 2
+Oregon,N,Phase 1,H,1,L,Phase 2,7,28,Phase 2
+Oregon,N,Phase 1,M,1,L,Phase 2,7,29,Phase 3
+Oregon,M,Phase 3,L,1,L,Phase 2,7,30,Phase 3
+Oregon,M,Phase 3,VL,1,L,Phase 2,8,31,Phase 3
+Oregon,M,Phase 3,M,1,L,Phase 2,8,32,Phase 2
+Oregon,M,Phase 3,L,1,L,Phase 3,8,33,Phase 2
+Oregon,M,Phase 1,M,1,L,Phase 3,8,34,Phase 2
+Oregon,M,Phase 1,M,1,L,Phase 3,8,35,Phase 2
+Oregon,M,Phase 1,M,1,L,Phase 2,9,36,Phase 2
+Oregon,M,Phase 1,VL,1,L,Phase 2,9,37,Phase 2
+Oregon,M,Phase 2,M,1,VL,Phase 2,9,38,Phase 2
+Oregon,M,Phase 2,M,1,L,Phase 2,9,39,Phase 2
+Oregon,M,Phase 2,L,1,L,Phase 2,10,40,Phase 2
+Oregon,M,Phase 2,L,1,L,Phase 2,10,41,Phase 2
+Oregon,M,Phase 2,M,1,L,Phase 2,10,42,Phase 2
+Oklahoma,N,Phase 0,H,1,VL,Phase 1,6,22,Phase 1
+Oklahoma,N,Phase 0,VH,1,VL,Phase 1,6,23,Phase 2
+Oklahoma,N,Phase 4,H,1,VL,Phase 1,6,24,Phase 2
+Oklahoma,N,Phase 4,VH,1,VL,Phase 1,6,25,Phase 2
+Oklahoma,N,Phase 4,VH,1,L,Phase 1,6,26,Phase 2
+Oklahoma,N,Phase 4,H,1,M,Phase 2,7,27,Phase 2
+Oklahoma,N,Phase 4,VH,1,M,Phase 2,7,28,Phase 2
+Oklahoma,N,Phase 4,H,1,H,Phase 2,7,29,Phase 2
+Oklahoma,N,Phase 2,H,1,H,Phase 2,7,30,Phase 2
+Oklahoma,N,Phase 3,M,1,VH,Phase 2,8,31,Phase 3
+Oklahoma,N,Phase 3,H,1,VH,Phase 2,8,32,Phase 3
+Oklahoma,N,Phase 3,M,1,H,Phase 2,8,33,Phase 3
+Oklahoma,N,Phase 3,H,1,H,Phase 2,8,34,Phase 3
+Oklahoma,N,Phase 3,M,1,H,Phase 3,8,35,Phase 3
+Oklahoma,N,Phase 3,H,1,H,Phase 3,9,36,Phase 1
+Oklahoma,N,Phase 3,H,1,H,Phase 3,9,37,Phase 1
+Oklahoma,N,Phase 3,H,1,VH,Phase 3,9,38,Phase 1
+Oklahoma,N,Phase 3,H,1,VH,Phase 3,9,39,Phase 1
+Oklahoma,N,Phase 3,H,1,VH,Phase 1,10,40,Phase 1
+Oklahoma,N,Phase 3,H,1,VH,Phase 1,10,41,Phase 1
+Oklahoma,N,Phase 3,H,1,VH,Phase 1,10,42,Phase 1
+Connecticut,M,Phase 0,VL,2,H,Phase 3,6,22,Phase 4
+Connecticut,M,Phase 0,L,2,M,Phase 3,6,23,Phase 4
+Connecticut,M,Phase 2,VL,2,L,Phase 3,6,24,Phase 4
+Connecticut,M,Phase 2,M,2,VL,Phase 4,6,25,Phase 4
+Connecticut,M,Phase 3,L,2,VL,Phase 4,6,26,Phase 4
+Connecticut,M,Phase 3,M,2,VL,Phase 4,7,27,Phase 4
+Connecticut,M,Phase 3,VH,2,VL,Phase 4,7,28,Phase 4
+Connecticut,M,Phase 2,M,2,VL,Phase 4,7,29,Phase 4
+Connecticut,M,Phase 2,L,2,VL,Phase 4,7,30,Phase 2
+Connecticut,M,Phase 2,VL,2,VL,Phase 4,8,31,Phase 2
+Connecticut,M,Phase 2,L,2,VL,Phase 4,8,32,Phase 2
+Connecticut,M,Phase 2,VL,2,VL,Phase 4,8,33,Phase 2
+Connecticut,M,Phase 2,M,2,VL,Phase 2,8,34,Phase 2
+Connecticut,M,Phase 2,L,2,VL,Phase 2,8,35,Phase 2
+Connecticut,M,Phase 2,M,2,VL,Phase 2,9,36,Phase 2
+Connecticut,M,Phase 2,L,2,VL,Phase 2,9,37,Phase 2
+Connecticut,M,Phase 2,M,2,VL,Phase 2,9,38,Phase 2
+Connecticut,M,Phase 2,M,2,VL,Phase 2,9,39,Phase 2
+Connecticut,M,Phase 2,M,2,VL,Phase 2,10,40,Phase 2
+Connecticut,M,Phase 2,M,2,L,Phase 2,10,41,Phase 3
+Connecticut,M,Phase 3,M,2,M,Phase 2,10,42,Phase 3
+Iowa,N,Phase 2,M,1,M,Phase 2,6,22,Phase 3
+Iowa,N,Phase 2,VH,1,M,Phase 3,6,23,Phase 3
+Iowa,N,Phase 2,H,1,M,Phase 3,6,24,Phase 3
+Iowa,N,Phase 4,VH,1,M,Phase 3,6,25,Phase 4
+Iowa,N,Phase 4,VH,1,M,Phase 3,6,26,Phase 1
+Iowa,N,Phase 4,VH,1,M,Phase 3,7,27,Phase 1
+Iowa,N,Phase 4,VH,1,H,Phase 3,7,28,Phase 1
+Iowa,N,Phase 4,VH,1,H,Phase 4,7,29,Phase 1
+Iowa,N,Phase 4,H,1,H,Phase 1,7,30,Phase 1
+Iowa,N,Phase 4,H,1,H,Phase 1,8,31,Phase 1
+Iowa,N,Phase 4,H,1,H,Phase 1,8,32,Phase 1
+Iowa,N,Phase 4,VH,1,H,Phase 1,8,33,Phase 1
+Iowa,N,Phase 4,VH,1,H,Phase 1,8,34,Phase 1
+Iowa,N,Phase 4,VH,1,H,Phase 1,8,35,Phase 1
+Iowa,N,Phase 4,H,1,VH,Phase 1,9,36,Phase 1
+Iowa,N,Phase 4,VH,1,VH,Phase 1,9,37,Phase 1
+Iowa,N,Phase 4,VH,1,VH,Phase 1,9,38,Phase 1
+Iowa,N,Phase 4,H,1,VH,Phase 1,9,39,Phase 1
+Iowa,N,Phase 4,H,1,VH,Phase 1,10,40,Phase 1
+Iowa,N,Phase 4,VH,1,VH,Phase 1,10,41,Phase 1
+Iowa,N,Phase 4,H,1,VH,Phase 1,10,42,Phase 1
+Utah,N,Phase 0,VL,1,L,Phase 1,6,22,Phase 2
+Utah,N,Phase 0,VL,1,L,Phase 2,6,23,Phase 2
+Utah,N,Phase 0,VL,1,M,Phase 2,6,24,Phase 2
+Utah,N,Phase 0,L,1,M,Phase 2,6,25,Phase 2
+Utah,N,Phase 0,VL,1,H,Phase 2,6,26,Phase 2
+Utah,N,Phase 0,VL,1,H,Phase 2,7,27,Phase 2
+Utah,N,Phase 0,VL,1,H,Phase 2,7,28,Phase 3
+Utah,N,Phase 0,VL,1,H,Phase 2,7,29,Phase 3
+Utah,N,Phase 0,VL,1,VH,Phase 2,7,30,Phase 3
+Utah,N,Phase 0,VL,1,H,Phase 2,8,31,Phase 3
+Utah,N,Phase 2,VL,1,H,Phase 3,8,32,Phase 3
+Utah,N,Phase 2,VL,1,H,Phase 3,8,33,Phase 3
+Utah,N,Phase 2,VL,1,M,Phase 3,8,34,Phase 3
+Utah,N,Phase 2,VL,1,M,Phase 3,8,35,Phase 3
+Utah,N,Phase 2,VL,1,M,Phase 3,9,36,Phase 1
+Utah,N,Phase 2,VL,1,H,Phase 3,9,37,Phase 1
+Utah,N,Phase 2,VL,1,H,Phase 3,9,38,Phase 1
+Utah,C,Phase 2,VL,1,VH,Phase 3,9,39,Phase 1
+Utah,C,Phase 2,VL,1,VH,Phase 1,10,40,Phase 1
+Utah,C,Phase 2,VL,1,VH,Phase 1,10,41,Phase 1
+Utah,C,Phase 2,VL,1,VH,Phase 1,10,42,Phase 1
+Nevada,N,Phase 2,VL,1,VL,Phase 1,6,22,Phase 2
+Nevada,N,Phase 4,VL,1,VL,Phase 1,6,23,Phase 2
+Nevada,N,Phase 4,L,1,VL,Phase 1,6,24,Phase 2
+Nevada,N,Phase 4,L,1,L,Phase 2,6,25,Phase 2
+Nevada,M,Phase 4,L,1,M,Phase 2,6,26,Phase 2
+Nevada,M,Phase 4,VL,1,H,Phase 2,7,27,Phase 2
+Nevada,M,Phase 4,L,1,VH,Phase 2,7,28,Phase 2
+Nevada,M,Phase 4,VL,1,VH,Phase 2,7,29,Phase 2
+Nevada,M,Phase 4,VL,1,VH,Phase 2,7,30,Phase 2
+Nevada,M,Phase 4,VL,1,VH,Phase 2,8,31,Phase 2
+Nevada,M,Phase 4,VL,1,VH,Phase 2,8,32,Phase 2
+Nevada,M,Phase 4,VL,1,VH,Phase 2,8,33,Phase 2
+Nevada,M,Phase 4,VL,1,VH,Phase 2,8,34,Phase 2
+Nevada,M,Phase 4,VL,1,VH,Phase 2,8,35,Phase 2
+Nevada,M,Phase 4,VL,1,H,Phase 2,9,36,Phase 2
+Nevada,M,Phase 4,L,1,H,Phase 2,9,37,Phase 2
+Nevada,M,Phase 4,L,1,M,Phase 2,9,38,Phase 2
+Nevada,M,Phase 4,L,1,M,Phase 2,9,39,Phase 2
+Nevada,M,Phase 4,L,1,H,Phase 2,10,40,Phase 2
+Nevada,M,Phase 4,L,1,H,Phase 2,10,41,Phase 2
+Nevada,M,Phase 4,L,1,H,Phase 2,10,42,Phase 3
+Arkansas,N,Phase 1,H,1,L,Phase 3,6,22,Phase 1
+Arkansas,N,Phase 1,VH,1,L,Phase 1,6,23,Phase 1
+Arkansas,N,Phase 1,H,1,M,Phase 1,6,24,Phase 1
+Arkansas,N,Phase 1,VH,1,H,Phase 1,6,25,Phase 1
+Arkansas,N,Phase 3,VH,1,H,Phase 1,6,26,Phase 2
+Arkansas,N,Phase 3,VH,1,H,Phase 1,7,27,Phase 2
+Arkansas,N,Phase 3,VH,1,H,Phase 1,7,28,Phase 2
+Arkansas,N,Phase 3,H,1,VH,Phase 1,7,29,Phase 2
+Arkansas,M,Phase 3,H,1,VH,Phase 2,7,30,Phase 2
+Arkansas,M,Phase 3,H,1,VH,Phase 2,8,31,Phase 2
+Arkansas,M,Phase 3,H,1,VH,Phase 2,8,32,Phase 2
+Arkansas,M,Phase 3,H,1,VH,Phase 2,8,33,Phase 2
+Arkansas,M,Phase 3,VH,1,H,Phase 2,8,34,Phase 2
+Arkansas,M,Phase 3,M,1,H,Phase 2,8,35,Phase 2
+Arkansas,M,Phase 3,H,1,H,Phase 2,9,36,Phase 2
+Arkansas,M,Phase 3,H,1,VH,Phase 2,9,37,Phase 2
+Arkansas,M,Phase 3,VH,1,VH,Phase 2,9,38,Phase 2
+Arkansas,M,Phase 3,VH,1,VH,Phase 2,9,39,Phase 2
+Arkansas,M,Phase 3,VH,1,VH,Phase 2,10,40,Phase 3
+Arkansas,M,Phase 3,VH,1,VH,Phase 2,10,41,Phase 3
+Arkansas,M,Phase 3,VH,1,VH,Phase 2,10,42,Phase 3
+Mississippi,N,Phase 0,H,1,M,Phase 1,6,22,Phase 2
+Mississippi,N,Phase 0,M,1,M,Phase 2,6,23,Phase 2
+Mississippi,N,Phase 4,H,1,M,Phase 2,6,24,Phase 2
+Mississippi,N,Phase 4,VH,1,M,Phase 2,6,25,Phase 2
+Mississippi,N,Phase 4,VH,1,M,Phase 2,6,26,Phase 2
+Mississippi,N,Phase 4,VH,1,H,Phase 2,7,27,Phase 2
+Mississippi,N,Phase 1,VH,1,VH,Phase 2,7,28,Phase 2
+Mississippi,N,Phase 1,H,1,VH,Phase 2,7,29,Phase 2
+Mississippi,N,Phase 2,H,1,VH,Phase 2,7,30,Phase 2
+Mississippi,N,Phase 2,H,1,VH,Phase 2,8,31,Phase 2
+Mississippi,C,Phase 2,H,1,VH,Phase 2,8,32,Phase 3
+Mississippi,C,Phase 1,H,1,VH,Phase 2,8,33,Phase 3
+Mississippi,C,Phase 1,VH,1,VH,Phase 2,8,34,Phase 3
+Mississippi,C,Phase 1,H,1,VH,Phase 2,8,35,Phase 3
+Mississippi,C,Phase 1,VH,1,VH,Phase 3,9,36,Phase 3
+Mississippi,C,Phase 1,H,1,H,Phase 3,9,37,Phase 3
+Mississippi,C,Phase 1,VH,1,H,Phase 3,9,38,Phase 3
+Mississippi,C,Phase 2,VH,1,H,Phase 3,9,39,Phase 3
+Mississippi,C,Phase 2,VH,1,H,Phase 3,10,40,Phase 3
+Mississippi,C,Phase 3,H,1,H,Phase 3,10,41,Phase 3
+Mississippi,C,Phase 3,VH,1,H,Phase 3,10,42,Phase 3
+Kansas,N,Phase 4,M,1,L,Phase 3,6,22,Phase 4
+Kansas,N,Phase 4,H,1,VL,Phase 3,6,23,Phase 4
+Kansas,N,Phase 4,M,1,VL,Phase 3,6,24,Phase 1
+Kansas,N,Phase 4,VH,1,VL,Phase 3,6,25,Phase 1
+Kansas,N,Phase 4,VH,1,VL,Phase 4,6,26,Phase 1
+Kansas,C,Phase 3,M,1,L,Phase 4,7,27,Phase 1
+Kansas,C,Phase 3,VH,1,M,Phase 1,7,28,Phase 1
+Kansas,C,Phase 3,M,1,H,Phase 1,7,29,Phase 1
+Kansas,C,Phase 3,M,1,H,Phase 1,7,30,Phase 1
+Kansas,C,Phase 3,L,1,H,Phase 1,8,31,Phase 1
+Kansas,C,Phase 3,L,1,H,Phase 1,8,32,Phase 1
+Kansas,C,Phase 3,M,1,H,Phase 1,8,33,Phase 1
+Kansas,C,Phase 3,H,1,H,Phase 1,8,34,Phase 1
+Kansas,C,Phase 3,M,1,H,Phase 1,8,35,Phase 1
+Kansas,C,Phase 3,M,1,H,Phase 1,9,36,Phase 1
+Kansas,C,Phase 3,H,1,VH,Phase 1,9,37,Phase 1
+Kansas,C,Phase 3,M,1,H,Phase 1,9,38,Phase 1
+Kansas,C,Phase 3,L,1,VH,Phase 1,9,39,Phase 1
+Kansas,C,Phase 3,H,1,VH,Phase 1,10,40,Phase 1
+Kansas,C,Phase 3,M,1,VH,Phase 1,10,41,Phase 1
+Kansas,C,Phase 3,M,1,VH,Phase 1,10,42,Phase 1
+New Mexico,M,Phase 0,VL,1,L,Phase 2,6,22,Phase 2
+New Mexico,M,Phase 0,L,1,L,Phase 2,6,23,Phase 2
+New Mexico,M,Phase 0,L,1,L,Phase 2,6,24,Phase 2
+New Mexico,M,Phase 0,M,1,L,Phase 2,6,25,Phase 3
+New Mexico,M,Phase 0,M,1,L,Phase 2,6,26,Phase 3
+New Mexico,M,Phase 1,L,1,L,Phase 2,7,27,Phase 3
+New Mexico,M,Phase 1,L,1,M,Phase 2,7,28,Phase 3
+New Mexico,M,Phase 1,L,1,M,Phase 3,7,29,Phase 3
+New Mexico,M,Phase 1,VL,1,H,Phase 3,7,30,Phase 3
+New Mexico,M,Phase 1,VL,1,H,Phase 3,8,31,Phase 3
+New Mexico,M,Phase 1,L,1,H,Phase 3,8,32,Phase 3
+New Mexico,M,Phase 1,VL,1,M,Phase 3,8,33,Phase 3
+New Mexico,M,Phase 1,L,1,L,Phase 3,8,34,Phase 4
+New Mexico,M,Phase 1,L,1,L,Phase 3,8,35,Phase 4
+New Mexico,M,Phase 2,M,1,L,Phase 3,9,36,Phase 1
+New Mexico,M,Phase 3,M,1,L,Phase 3,9,37,Phase 1
+New Mexico,M,Phase 3,M,1,L,Phase 4,9,38,Phase 1
+New Mexico,M,Phase 3,L,1,L,Phase 4,9,39,Phase 1
+New Mexico,M,Phase 3,L,1,L,Phase 1,10,40,Phase 1
+New Mexico,M,Phase 3,L,1,M,Phase 1,10,41,Phase 1
+New Mexico,M,Phase 3,M,1,H,Phase 1,10,42,Phase 1
+Nebraska,N,Phase 2,M,1,H,Phase 3,6,22,Phase 1
+Nebraska,N,Phase 2,H,1,H,Phase 3,6,23,Phase 1
+Nebraska,N,Phase 3,M,1,M,Phase 4,6,24,Phase 1
+Nebraska,N,Phase 3,VH,1,M,Phase 4,6,25,Phase 1
+Nebraska,N,Phase 5,VH,1,L,Phase 1,6,26,Phase 1
+Nebraska,N,Phase 5,VH,1,L,Phase 1,7,27,Phase 1
+Nebraska,N,Phase 5,VH,1,L,Phase 1,7,28,Phase 1
+Nebraska,N,Phase 5,VH,1,M,Phase 1,7,29,Phase 1
+Nebraska,N,Phase 5,H,1,M,Phase 1,7,30,Phase 1
+Nebraska,N,Phase 5,H,1,H,Phase 1,8,31,Phase 1
+Nebraska,N,Phase 5,H,1,H,Phase 1,8,32,Phase 1
+Nebraska,N,Phase 5,H,1,H,Phase 1,8,33,Phase 1
+Nebraska,N,Phase 5,VH,1,H,Phase 1,8,34,Phase 1
+Nebraska,N,Phase 5,H,1,M,Phase 1,8,35,Phase 1
+Nebraska,N,Phase 5,VH,1,H,Phase 1,9,36,Phase 1
+Nebraska,N,Phase 5,VH,1,H,Phase 1,9,37,Phase 1
+Nebraska,N,Phase 5,VH,1,H,Phase 1,9,38,Phase 1
+Nebraska,N,Phase 5,H,1,H,Phase 1,9,39,Phase 1
+Nebraska,N,Phase 5,VH,1,VH,Phase 1,10,40,Phase 1
+Nebraska,N,Phase 5,VH,1,VH,Phase 1,10,41,Phase 1
+Nebraska,N,Phase 5,H,1,VH,Phase 1,10,42,Phase 1
+West Virginia,N,Phase 0,L,1,VL,Phase 3,6,22,Phase 1
+West Virginia,N,Phase 0,VH,1,VL,Phase 4,6,23,Phase 1
+West Virginia,N,Phase 0,L,1,VL,Phase 4,6,24,Phase 1
+West Virginia,N,Phase 0,VH,1,VL,Phase 4,6,25,Phase 1
+West Virginia,N,Phase 0,H,1,VL,Phase 1,6,26,Phase 1
+West Virginia,N,Phase 0,VH,1,VL,Phase 1,7,27,Phase 1
+West Virginia,M,Phase 0,VH,1,VL,Phase 1,7,28,Phase 1
+West Virginia,M,Phase 0,M,1,L,Phase 1,7,29,Phase 1
+West Virginia,M,Phase 3,M,1,L,Phase 1,7,30,Phase 1
+West Virginia,M,Phase 3,L,1,L,Phase 1,8,31,Phase 1
+West Virginia,M,Phase 3,H,1,L,Phase 1,8,32,Phase 1
+West Virginia,M,Phase 3,M,1,L,Phase 1,8,33,Phase 1
+West Virginia,M,Phase 3,H,1,L,Phase 1,8,34,Phase 1
+West Virginia,M,Phase 3,M,1,L,Phase 1,8,35,Phase 1
+West Virginia,M,Phase 3,H,1,L,Phase 1,9,36,Phase 1
+West Virginia,M,Phase 3,M,1,M,Phase 1,9,37,Phase 1
+West Virginia,M,Phase 3,H,1,M,Phase 1,9,38,Phase 1
+West Virginia,M,Phase 3,H,1,M,Phase 1,9,39,Phase 1
+West Virginia,M,Phase 3,M,1,M,Phase 1,10,40,Phase 1
+West Virginia,M,Phase 3,L,1,M,Phase 1,10,41,Phase 1
+West Virginia,M,Phase 3,H,1,M,Phase 1,10,42,Phase 1
+Idaho,N,Phase 0,H,1,VL,Phase 1,6,22,Phase 1
+Idaho,N,Phase 0,L,1,VL,Phase 1,6,23,Phase 1
+Idaho,N,Phase 0,H,1,VL,Phase 1,6,24,Phase 2
+Idaho,N,Phase 0,VH,1,VL,Phase 1,6,25,Phase 2
+Idaho,N,Phase 0,H,1,VL,Phase 1,6,26,Phase 2
+Idaho,N,Phase 4,VH,1,M,Phase 1,7,27,Phase 2
+Idaho,N,Phase 4,VH,1,H,Phase 2,7,28,Phase 2
+Idaho,N,Phase 4,H,1,VH,Phase 2,7,29,Phase 2
+Idaho,N,Phase 4,H,1,VH,Phase 2,7,30,Phase 3
+Idaho,N,Phase 4,L,1,VH,Phase 2,8,31,Phase 1
+Idaho,N,Phase 4,H,1,VH,Phase 2,8,32,Phase 1
+Idaho,N,Phase 4,H,1,VH,Phase 2,8,33,Phase 1
+Idaho,N,Phase 4,H,1,VH,Phase 3,8,34,Phase 1
+Idaho,N,Phase 4,H,1,H,Phase 1,8,35,Phase 2
+Idaho,N,Phase 4,H,1,H,Phase 1,9,36,Phase 2
+Idaho,N,Phase 4,M,1,H,Phase 1,9,37,Phase 2
+Idaho,N,Phase 4,H,1,H,Phase 1,9,38,Phase 2
+Idaho,N,Phase 4,H,1,H,Phase 2,9,39,Phase 2
+Idaho,N,Phase 4,M,1,VH,Phase 2,10,40,Phase 2
+Idaho,N,Phase 4,L,1,VH,Phase 2,10,41,Phase 2
+Idaho,N,Phase 4,M,1,VH,Phase 2,10,42,Phase 2
+Hawaii,N,Phase 0,M,1,VL,Phase 4,6,22,Phase 1
+Hawaii,N,Phase 0,L,1,VL,Phase 4,6,23,Phase 1
+Hawaii,N,Phase 0,M,1,VL,Phase 4,6,24,Phase 1
+Hawaii,N,Phase 0,M,1,VL,Phase 5,6,25,Phase 1
+Hawaii,N,Phase 0,M,1,VL,Phase 1,6,26,Phase 1
+Hawaii,N,Phase 0,L,1,VL,Phase 1,7,27,Phase 2
+Hawaii,N,Phase 0,M,1,VL,Phase 1,7,28,Phase 2
+Hawaii,N,Phase 0,L,1,VL,Phase 1,7,29,Phase 2
+Hawaii,N,Phase 0,VL,1,VL,Phase 1,7,30,Phase 2
+Hawaii,N,Phase 0,VL,1,VL,Phase 2,8,31,Phase 2
+Hawaii,N,Phase 0,VL,1,L,Phase 2,8,32,Phase 2
+Hawaii,N,Phase 0,VL,1,M,Phase 2,8,33,Phase 3
+Hawaii,N,Phase 0,VL,1,H,Phase 2,8,34,Phase 3
+Hawaii,N,Phase 1,VL,1,H,Phase 2,8,35,Phase 3
+Hawaii,N,Phase 1,VL,1,H,Phase 2,9,36,Phase 3
+Hawaii,N,Phase 1,VL,1,H,Phase 3,9,37,Phase 3
+Hawaii,N,Phase 2,VL,1,M,Phase 3,9,38,Phase 3
+Hawaii,N,Phase 1,L,1,M,Phase 3,9,39,Phase 4
+Hawaii,N,Phase 1,VL,1,L,Phase 3,10,40,Phase 4
+Hawaii,N,Phase 1,VL,1,L,Phase 3,10,41,Phase 4
+Hawaii,N,Phase 1,VL,1,L,Phase 3,10,42,Phase 4
+New Hampshire,N,Phase 0,VL,1,L,Phase 3,6,22,Phase 3
+New Hampshire,N,Phase 0,L,1,L,Phase 3,6,23,Phase 3
+New Hampshire,N,Phase 0,L,1,VL,Phase 3,6,24,Phase 4
+New Hampshire,N,Phase 0,H,1,VL,Phase 3,6,25,Phase 4
+New Hampshire,N,Phase 4,L,1,VL,Phase 3,6,26,Phase 2
+New Hampshire,N,Phase 4,H,1,VL,Phase 3,7,27,Phase 2
+New Hampshire,N,Phase 4,VH,1,VL,Phase 4,7,28,Phase 2
+New Hampshire,N,Phase 4,H,1,VL,Phase 4,7,29,Phase 2
+New Hampshire,N,Phase 4,M,1,VL,Phase 2,7,30,Phase 2
+New Hampshire,C,Phase 4,VL,1,VL,Phase 2,8,31,Phase 2
+New Hampshire,C,Phase 4,M,1,VL,Phase 2,8,32,Phase 2
+New Hampshire,C,Phase 4,L,1,VL,Phase 2,8,33,Phase 2
+New Hampshire,C,Phase 4,VH,1,VL,Phase 2,8,34,Phase 2
+New Hampshire,C,Phase 4,L,1,VL,Phase 2,8,35,Phase 2
+New Hampshire,C,Phase 4,M,1,VL,Phase 2,9,36,Phase 2
+New Hampshire,C,Phase 4,M,1,VL,Phase 2,9,37,Phase 2
+New Hampshire,C,Phase 4,M,1,VL,Phase 2,9,38,Phase 2
+New Hampshire,C,Phase 4,H,1,VL,Phase 2,9,39,Phase 2
+New Hampshire,C,Phase 4,M,1,VL,Phase 2,10,40,Phase 2
+New Hampshire,C,Phase 2,M,1,VL,Phase 2,10,41,Phase 2
+New Hampshire,C,Phase 2,L,1,L,Phase 2,10,42,Phase 2
+Maine,M,Phase 0,VL,1,VL,Phase 3,6,22,Phase 3
+Maine,M,Phase 0,M,1,VL,Phase 3,6,23,Phase 2
+Maine,M,Phase 2,M,1,VL,Phase 3,6,24,Phase 2
+Maine,M,Phase 3,VH,1,VL,Phase 3,6,25,Phase 2
+Maine,M,Phase 3,H,1,VL,Phase 3,6,26,Phase 2
+Maine,M,Phase 1,VH,1,VL,Phase 2,7,27,Phase 2
+Maine,M,Phase 1,VH,1,VL,Phase 2,7,28,Phase 2
+Maine,M,Phase 1,VH,1,VL,Phase 2,7,29,Phase 2
+Maine,M,Phase 1,H,1,VL,Phase 2,7,30,Phase 2
+Maine,M,Phase 1,L,1,VL,Phase 2,8,31,Phase 2
+Maine,M,Phase 1,H,1,VL,Phase 2,8,32,Phase 2
+Maine,M,Phase 1,H,1,VL,Phase 2,8,33,Phase 2
+Maine,M,Phase 1,VH,1,VL,Phase 2,8,34,Phase 2
+Maine,M,Phase 1,M,1,VL,Phase 2,8,35,Phase 2
+Maine,M,Phase 1,VH,1,VL,Phase 2,9,36,Phase 2
+Maine,M,Phase 1,H,1,VL,Phase 2,9,37,Phase 2
+Maine,M,Phase 1,H,1,VL,Phase 2,9,38,Phase 2
+Maine,M,Phase 1,VH,1,VL,Phase 2,9,39,Phase 2
+Maine,M,Phase 1,H,1,VL,Phase 2,10,40,Phase 2
+Maine,M,Phase 1,H,1,VL,Phase 2,10,41,Phase 2
+Maine,M,Phase 1,M,1,VL,Phase 2,10,42,Phase 3
+Montana,N,Phase 0,VH,1,VL,Phase 4,6,22,Phase 1
+Montana,N,Phase 0,VH,1,VL,Phase 4,6,23,Phase 1
+Montana,N,Phase 4,VH,1,VL,Phase 4,6,24,Phase 1
+Montana,N,Phase 4,VH,1,VL,Phase 5,6,25,Phase 1
+Montana,N,Phase 4,VH,1,VL,Phase 1,6,26,Phase 1
+Montana,N,Phase 4,VH,1,VL,Phase 1,7,27,Phase 1
+Montana,N,Phase 4,VH,1,VL,Phase 1,7,28,Phase 1
+Montana,M,Phase 4,VH,1,L,Phase 1,7,29,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,7,30,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,8,31,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,8,32,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,8,33,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,8,34,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,8,35,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,9,36,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,9,37,Phase 1
+Montana,M,Phase 4,VH,1,M,Phase 1,9,38,Phase 1
+Montana,M,Phase 4,VH,1,H,Phase 1,9,39,Phase 1
+Montana,M,Phase 4,H,1,VH,Phase 1,10,40,Phase 1
+Montana,M,Phase 4,L,1,VH,Phase 1,10,41,Phase 1
+Montana,M,Phase 4,VL,1,VH,Phase 1,10,42,Phase 1
+Rhode Island,M,Phase 0,VL,3,H,Phase 3,6,22,Phase 3
+Rhode Island,M,Phase 0,L,3,H,Phase 3,6,23,Phase 4
+Rhode Island,M,Phase 3,L,3,M,Phase 3,6,24,Phase 4
+Rhode Island,M,Phase 3,M,3,L,Phase 3,6,25,Phase 4
+Rhode Island,M,Phase 3,L,3,L,Phase 3,6,26,Phase 4
+Rhode Island,M,Phase 3,H,3,VL,Phase 4,7,27,Phase 2
+Rhode Island,M,Phase 3,VH,3,VL,Phase 4,7,28,Phase 2
+Rhode Island,M,Phase 3,H,3,L,Phase 4,7,29,Phase 2
+Rhode Island,M,Phase 3,L,3,L,Phase 4,7,30,Phase 2
+Rhode Island,M,Phase 3,VL,3,L,Phase 2,8,31,Phase 2
+Rhode Island,M,Phase 3,L,3,M,Phase 2,8,32,Phase 2
+Rhode Island,M,Phase 3,VL,3,M,Phase 2,8,33,Phase 2
+Rhode Island,M,Phase 3,H,3,M,Phase 2,8,34,Phase 2
+Rhode Island,M,Phase 3,L,3,M,Phase 2,8,35,Phase 2
+Rhode Island,M,Phase 3,M,3,M,Phase 2,9,36,Phase 2
+Rhode Island,M,Phase 3,L,3,L,Phase 2,9,37,Phase 2
+Rhode Island,M,Phase 3,M,3,M,Phase 2,9,38,Phase 2
+Rhode Island,M,Phase 3,L,3,M,Phase 2,9,39,Phase 2
+Rhode Island,M,Phase 3,M,3,M,Phase 2,10,40,Phase 2
+Rhode Island,M,Phase 3,M,3,M,Phase 2,10,41,Phase 2
+Rhode Island,M,Phase 3,L,3,H,Phase 2,10,42,Phase 2
+Delaware,M,Phase 0,VL,2,H,Phase 3,6,22,Phase 2
+Delaware,M,Phase 0,L,2,M,Phase 3,6,23,Phase 2
+Delaware,M,Phase 2,L,2,L,Phase 3,6,24,Phase 2
+Delaware,M,Phase 2,L,2,L,Phase 3,6,25,Phase 2
+Delaware,M,Phase 3,M,2,L,Phase 2,6,26,Phase 2
+Delaware,M,Phase 3,M,2,L,Phase 2,7,27,Phase 2
+Delaware,M,Phase 3,H,2,M,Phase 2,7,28,Phase 2
+Delaware,M,Phase 3,L,2,M,Phase 2,7,29,Phase 2
+Delaware,M,Phase 3,L,2,M,Phase 2,7,30,Phase 2
+Delaware,M,Phase 3,VL,2,M,Phase 2,8,31,Phase 2
+Delaware,M,Phase 3,L,2,M,Phase 2,8,32,Phase 2
+Delaware,M,Phase 3,VL,2,M,Phase 2,8,33,Phase 2
+Delaware,M,Phase 3,M,2,M,Phase 2,8,34,Phase 2
+Delaware,M,Phase 3,L,2,M,Phase 2,8,35,Phase 3
+Delaware,M,Phase 3,M,2,L,Phase 2,9,36,Phase 3
+Delaware,M,Phase 3,L,2,M,Phase 2,9,37,Phase 3
+Delaware,M,Phase 3,L,2,M,Phase 2,9,38,Phase 3
+Delaware,M,Phase 3,L,2,M,Phase 3,9,39,Phase 3
+Delaware,M,Phase 3,L,2,M,Phase 3,10,40,Phase 3
+Delaware,M,Phase 3,L,2,M,Phase 3,10,41,Phase 3
+Delaware,M,Phase 3,L,2,H,Phase 3,10,42,Phase 3
+South Dakota,N,Phase 0,VH,1,L,Phase 3,6,22,Phase 4
+South Dakota,N,Phase 0,VH,1,L,Phase 3,6,23,Phase 4
+South Dakota,N,Phase 0,VH,1,L,Phase 3,6,24,Phase 4
+South Dakota,N,Phase 0,VH,1,L,Phase 3,6,25,Phase 4
+South Dakota,N,Phase 0,VH,1,L,Phase 4,6,26,Phase 1
+South Dakota,N,Phase 0,VH,1,L,Phase 4,7,27,Phase 1
+South Dakota,N,Phase 0,VH,1,L,Phase 4,7,28,Phase 1
+South Dakota,N,Phase 0,VH,1,L,Phase 4,7,29,Phase 1
+South Dakota,N,Phase 0,VH,1,L,Phase 1,7,30,Phase 1
+South Dakota,N,Phase 0,VH,1,L,Phase 1,8,31,Phase 1
+South Dakota,N,Phase 0,VH,1,M,Phase 1,8,32,Phase 1
+South Dakota,N,Phase 0,VH,1,M,Phase 1,8,33,Phase 1
+South Dakota,N,Phase 0,VH,1,M,Phase 1,8,34,Phase 1
+South Dakota,N,Phase 0,VH,1,H,Phase 1,8,35,Phase 1
+South Dakota,N,Phase 0,VH,1,VH,Phase 1,9,36,Phase 1
+South Dakota,N,Phase 0,VH,1,VH,Phase 1,9,37,Phase 2
+South Dakota,N,Phase 0,VH,1,VH,Phase 1,9,38,Phase 2
+South Dakota,N,Phase 0,VH,1,VH,Phase 1,9,39,Phase 2
+South Dakota,N,Phase 0,VH,1,VH,Phase 1,10,40,Phase 2
+South Dakota,N,Phase 0,VH,1,VH,Phase 2,10,41,Phase 2
+South Dakota,N,Phase 0,VH,1,VH,Phase 2,10,42,Phase 2
+North Dakota,N,Phase 2,VH,1,L,Phase 1,6,22,Phase 2
+North Dakota,N,Phase 4,VH,1,L,Phase 1,6,23,Phase 2
+North Dakota,N,Phase 4,H,1,VL,Phase 2,6,24,Phase 2
+North Dakota,N,Phase 4,VH,1,VL,Phase 2,6,25,Phase 2
+North Dakota,N,Phase 4,VH,1,VL,Phase 2,6,26,Phase 2
+North Dakota,N,Phase 4,VH,1,VL,Phase 2,7,27,Phase 2
+North Dakota,N,Phase 4,VH,1,L,Phase 2,7,28,Phase 2
+North Dakota,N,Phase 4,VH,1,M,Phase 2,7,29,Phase 2
+North Dakota,N,Phase 4,VH,1,M,Phase 2,7,30,Phase 2
+North Dakota,N,Phase 4,VH,1,H,Phase 2,8,31,Phase 1
+North Dakota,N,Phase 4,VH,1,H,Phase 2,8,32,Phase 1
+North Dakota,N,Phase 4,VH,1,H,Phase 2,8,33,Phase 1
+North Dakota,N,Phase 4,VH,1,H,Phase 2,8,34,Phase 1
+North Dakota,N,Phase 4,VH,1,VH,Phase 1,8,35,Phase 1
+North Dakota,N,Phase 4,VH,1,VH,Phase 1,9,36,Phase 1
+North Dakota,N,Phase 4,VH,1,VH,Phase 1,9,37,Phase 1
+North Dakota,N,Phase 4,VH,1,VH,Phase 1,9,38,Phase 1
+North Dakota,N,Phase 4,H,1,VH,Phase 1,9,39,Phase 1
+North Dakota,N,Phase 4,VH,1,VH,Phase 1,10,40,Phase 1
+North Dakota,N,Phase 4,H,1,VH,Phase 1,10,41,Phase 1
+North Dakota,N,Phase 4,H,1,VH,Phase 1,10,42,Phase 1
+Alaska,N,Phase 4,M,1,VL,Phase 1,6,22,Phase 1
+Alaska,N,Phase 4,VH,1,VL,Phase 1,6,23,Phase 2
+Alaska,N,Phase 4,VH,1,VL,Phase 1,6,24,Phase 2
+Alaska,N,Phase 4,M,1,VL,Phase 1,6,25,Phase 2
+Alaska,C,Phase 4,M,1,VL,Phase 1,6,26,Phase 2
+Alaska,C,Phase 4,H,1,VL,Phase 2,7,27,Phase 2
+Alaska,C,Phase 4,H,1,L,Phase 2,7,28,Phase 2
+Alaska,C,Phase 4,L,1,L,Phase 2,7,29,Phase 3
+Alaska,C,Phase 4,H,1,M,Phase 2,7,30,Phase 3
+Alaska,C,Phase 4,VL,1,H,Phase 2,8,31,Phase 3
+Alaska,C,Phase 4,H,1,H,Phase 2,8,32,Phase 3
+Alaska,C,Phase 4,H,1,M,Phase 3,8,33,Phase 3
+Alaska,C,Phase 4,M,1,M,Phase 3,8,34,Phase 3
+Alaska,C,Phase 4,M,1,M,Phase 3,8,35,Phase 4
+Alaska,C,Phase 4,H,1,M,Phase 3,9,36,Phase 1
+Alaska,C,Phase 4,VH,1,M,Phase 3,9,37,Phase 1
+Alaska,C,Phase 4,H,1,M,Phase 3,9,38,Phase 1
+Alaska,C,Phase 4,M,1,M,Phase 4,9,39,Phase 1
+Alaska,C,Phase 4,L,1,H,Phase 1,10,40,Phase 1
+Alaska,C,Phase 4,L,1,H,Phase 1,10,41,Phase 1
+Alaska,C,Phase 4,VL,1,VH,Phase 1,10,42,Phase 1
+Vermont,R,Phase 0,VL,1,VL,Phase 3,6,22,Phase 3
+Vermont,R,Phase 0,L,1,VL,Phase 3,6,23,Phase 4
+Vermont,R,Phase 0,VL,1,VL,Phase 3,6,24,Phase 4
+Vermont,R,Phase 0,H,1,VL,Phase 3,6,25,Phase 4
+Vermont,R,Phase 0,VL,1,VL,Phase 3,6,26,Phase 4
+Vermont,R,Phase 2,VH,1,VL,Phase 4,7,27,Phase 2
+Vermont,R,Phase 2,M,1,VL,Phase 4,7,28,Phase 2
+Vermont,R,Phase 2,L,1,VL,Phase 4,7,29,Phase 2
+Vermont,R,Phase 2,L,1,VL,Phase 4,7,30,Phase 2
+Vermont,C,Phase 2,VL,1,VL,Phase 2,8,31,Phase 2
+Vermont,C,Phase 2,M,1,VL,Phase 2,8,32,Phase 2
+Vermont,C,Phase 2,L,1,VL,Phase 2,8,33,Phase 2
+Vermont,C,Phase 2,M,1,VL,Phase 2,8,34,Phase 2
+Vermont,C,Phase 2,L,1,VL,Phase 2,8,35,Phase 2
+Vermont,C,Phase 2,H,1,VL,Phase 2,9,36,Phase 2
+Vermont,C,Phase 2,L,1,VL,Phase 2,9,37,Phase 2
+Vermont,C,Phase 2,M,1,VL,Phase 2,9,38,Phase 2
+Vermont,C,Phase 4,VH,1,VL,Phase 2,9,39,Phase 2
+Vermont,C,Phase 4,H,1,VL,Phase 2,10,40,Phase 2
+Vermont,C,Phase 4,VH,1,VL,Phase 2,10,41,Phase 2
+Vermont,C,Phase 4,L,1,VL,Phase 2,10,42,Phase 2
+Wyoming,N,Phase 0,VH,1,VL,Phase 1,6,22,Phase 2
+Wyoming,N,Phase 0,VH,1,VL,Phase 1,6,23,Phase 2
+Wyoming,N,Phase 0,VH,1,VL,Phase 2,6,24,Phase 2
+Wyoming,N,Phase 0,VH,1,VL,Phase 2,6,25,Phase 2
+Wyoming,N,Phase 0,VH,1,VL,Phase 2,6,26,Phase 2
+Wyoming,N,Phase 0,VH,1,L,Phase 2,7,27,Phase 2
+Wyoming,N,Phase 0,VH,1,L,Phase 2,7,28,Phase 2
+Wyoming,N,Phase 0,VH,1,L,Phase 2,7,29,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 2,7,30,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 2,8,31,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 2,8,32,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 1,8,33,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 1,8,34,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 1,8,35,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 1,9,36,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 1,9,37,Phase 1
+Wyoming,N,Phase 0,VH,1,L,Phase 1,9,38,Phase 1
+Wyoming,N,Phase 0,VH,1,M,Phase 1,9,39,Phase 1
+Wyoming,N,Phase 0,VH,1,H,Phase 1,10,40,Phase 1
+Wyoming,N,Phase 0,VH,1,VH,Phase 1,10,41,Phase 1
+Wyoming,N,Phase 0,VH,1,VH,Phase 1,10,42,Phase 1
